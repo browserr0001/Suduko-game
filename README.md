@@ -31,8 +31,3 @@ or
 * To confirm that value press the ENTER key on that box.
 * To delete a pencil in, you can click DEL.
 * To solve the board press SPACE.
-
-## Reference
-
-* [freecodecamp](https://www.freecodecamp.org/news/lets-backtrack-and-save-some-queens-1f9ef6af5415/)
-* [Pygame Tutorial](https://www.youtube.com/watch?v=FfWpgLFMI7w)
